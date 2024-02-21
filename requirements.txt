@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib
+bcrypt
+regex>=2021.8.3
+cymem<2.1.0,>=2.0.2
+jinja2
+numpy>=1.19.0
+wasabi<1.2.0,>=0.9.1
+filelock
+huggingface-hub<1.0,>=0.16.4
+python-multipart
+python-jose[cryptography]
